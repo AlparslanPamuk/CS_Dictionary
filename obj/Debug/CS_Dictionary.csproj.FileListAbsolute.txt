@@ -1,0 +1,10 @@
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\bin\Debug\CS_Dictionary.exe.config
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\bin\Debug\CS_Dictionary.exe
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\bin\Debug\CS_Dictionary.pdb
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\obj\Debug\CS_Dictionary.csprojAssemblyReference.cache
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\obj\Debug\CS_Dictionary.Form1.resources
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\obj\Debug\CS_Dictionary.Properties.Resources.resources
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\obj\Debug\CS_Dictionary.csproj.GenerateResource.cache
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\obj\Debug\CS_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\obj\Debug\CS_Dictionary.exe
+C:\Users\alp_g\OneDrive\Desktop\C\CS_Dictionary\CS_Dictionary\obj\Debug\CS_Dictionary.pdb
